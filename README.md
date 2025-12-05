@@ -66,11 +66,13 @@ The dashboard reveals waitlist trends, specialty-wise backlog, age-band vs time-
 
 ---
 
-## 📷 Dashboard Screenshots
-(Add your PNG dashboard images here after uploading them)
-Example:
+## 📊 Dashboard Screenshots
 
-<img width="1360" height="766" alt="summary page" src="https://github.com/user-attachments/..." />
-<img width="1360" height="754" alt="Detail page" src="https://github.com/user-attachments/..." />
+### 🔹 Summary Dashboard
+<img src="summary%20page.png" width="1000">
+
+### 🔹 Detail Dashboard
+<img src="Detail%20page.png" width="1000">
+
 
 
